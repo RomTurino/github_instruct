@@ -201,3 +201,19 @@ GitHub предоставляет встроенные средства обще
 Финалом разработки обычно становится выпуск определенного релиза программного продукта. Это отражается на вкладке «Releases». Здесь следует нажать на кнопку «Create New Release», указать номер версии в поле «Tag Version», внести ее название и небольшое описание. Здесь же прикрепляются архивы с компилированными файлами.
 
 Остается нажать на «Create Release» и убедиться в публикации релиза. Ссылки на исходный код в tar.gz и zip создаются автоматически. Остальные файлы понадобится добавлять вручную.
+
+## Полезные ссылки по работе с GitHub
+
+---
+
+[Инструкции по github для начинающих](https://gist.github.com/ilyavf/29d7a79989cbdc455379d12d109ac5a2)
+
+[Знакомство с Git и GitHub: руководство для начинающих](https://medium.com/nuances-of-programming/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-git-%D0%B8-github-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-54ea2567d76c)
+
+[Как работать с GitHub в VScode инструкция для новичков](https://rutube.ru/video/9acee98a722175ce4deca42d3a804c21/)
+
+[Git Tutorial – последнее руководство](https://coderlessons.com/articles/programmirovanie/git-tutorial-poslednee-rukovodstvo-pdf-download)
+
+[Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/book.pdf)
+
+![LogoGit](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
