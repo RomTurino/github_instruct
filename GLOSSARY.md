@@ -1,51 +1,97 @@
 # Глоссарий GitHub
 
 [(модуль)](#module)
+
 [@mention](#mention)
+
 [assignee](#assignee)
+
 [Azure](#Azure)
-[basic authentication](#basic authentication)
+
+[basic_authentication](#basic_authentication)
+
 [block](#block)
+
 [clean](#clean)
+
 [clone](#clone)
+
 [coupon](#coupon)
+
 [Cron](#Cron)
+
 [cURL](#cURL)
+
 [ashboard](#dashboard)
+
 [diff](#diff)
+
 [directory](#directory)
+
 [fetch](#fetch)
+
 [Git](#Git)
-[GitHub Flavored Markdown](#GitHub Flavored Markdown)
-[GitHub Importer](#GitHub Importer)
-[GitHub Marketplace](#GitHub Marketplace)
-[GitHub Pages](@GitHub Pages)
+
+[GitHub_Flavored_Markdown](#GitHub Flavored Markdown)
+
+[GitHub_Importer](#GitHub_Importer)
+
+[GitHub_Marketplace](#GitHub_Marketplace)
+
+[GitHub_Pages](@GitHub_Pages)
+
 [GraphQL](#GraphQL)
+
 [HEAD](#HEAD)
+
 [hostname](#hostname)
+
 [instance](#instance)
+
 [Jekyll](#Jekyll)
+
 [LFS](#LFS)
+
 [license](#license)
+
 [main](#main)
-[Management Console](#Management Console)
+
+[Management_Console](#Management_Console)
+
 [Markdown](#Markdown)
+
 [master](#master)
+
 [merge](#merge)
+
 [mirror](#merge)
+
 [organization](#organization)
+
 [permalink](#permalink)
+
 [pull](#pull)
+
 [push](#push)
+
 [push-доступ](#push-доступ)
+
 [release](#release)
+
 [repository](#repository)
+
 [resolve](#resolve)
+
 [snapshot](#snapshot)
+
 [status](#status)
+
 [topics](#topics)
+
 [Twitter](#Twitter)
+
 [username](#username)
+
 
 ## В этом глоссарии представлены общие термины Git и GitHub.
 
@@ -100,16 +146,16 @@ Git — это программа открытый код для отслежи�
 <a name="gitfile">gitfile</a>
 Обычный .git файл, который всегда находится в корне рабочего дерева и указывает на каталог Git, который содержит весь репозиторий Git и его метаданные. Этот файл для репозитория можно просмотреть в командной строке с помощью git rev-parse --git-dirкоманды . это реальный репозиторий.
 
-<a name="GitHub Flavored Markdown">GitHub Flavored Markdown</a>
+<a name="GitHub_Flavored_Markdown">GitHub_Flavored_Markdown</a>
 Markdown для GitHub используется для форматирования проза и кода в GitHub. См. статью GitHub Flavored Markdown Spec или Начало работы с написанием и форматированием на сайте GitHub.
 
 <a name="GitHub Importer">GitHub Importer</a>
 Средство, которое быстро импортирует репозитории исходного кода, включая фиксации и журнал редакций, в GitHub для пользователей.
 
-<a name="GitHub Marketplace">GitHub Marketplace</a>
+<a name="GitHub_Marketplace">GitHub_Marketplace</a>
 Дочерний сайт для пользователей и организаций GitHub для приобретения и установки приложений, расширяющих и дополняющих их рабочий процесс.
 
-<a name="GitHub Pages">GitHub Pages</a>
+<a name="GitHub_Pages">GitHub_Pages</a>
 Также называется Pages. Служба размещения статических сайтов, предназначенная для размещения личных страниц, страниц организации или проектов непосредственно из репозитория GitHub.
 
 <a name="GraphQL">GraphQL</a>
@@ -136,7 +182,7 @@ Markdown для GitHub используется для форматирован�
 <a name="main">main</a>
 Ветвь разработки по умолчанию. При создании репозитория Git создается ветвь с именем main и становится активной ветвью. В большинстве случаев это содержит локальную разработку, хотя это чисто по соглашению и не требуется.
 
-<a name="Management Console">Management Console</a>
+<a name="Management_Console">Management_Console</a>
 Раздел в интерфейсе GitHub Enterprise, содержащий административные функции.
 
 <a name="Markdown">Markdown</a>
