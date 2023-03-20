@@ -32,7 +32,7 @@
 
 [Git](#Git)
 
-[GitHub_Flavored_Markdown](#GitHub Flavored Markdown)
+[GitHub_Flavored_Markdown](#GitHub_Flavored_Markdown)
 
 [GitHub_Importer](#GitHub_Importer)
 
