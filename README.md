@@ -329,6 +329,8 @@ ___
 ![LogoGit](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 =======
 
-Да пребудет с вами сила!
+ ***Да пребудет с вами сила!***
+
+![Yoda](https://media.tenor.com/f9DTGzMPLG8AAAAi/emojify.gif)
 
 
