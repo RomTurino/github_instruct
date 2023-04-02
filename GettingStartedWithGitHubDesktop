@@ -1,0 +1,42 @@
+# Начало работы с GitHub Desktop
+## Узнайте, как определить, проверить подлинность и настроить GitHub Desktop, чтобы участвовать в проектах непосредственно со своего компьютера.
+## **В этой статье**
+1. [Введение](#введение)
+2. [Часть 1. Установка и проверка подлинности](#часть-1-установка-и-проверка-подлинности)
+3. [Часть 2. Настройка GitHub Desktop](#часть-2-настройка-github-desktop)
+4. [Часть 3. Участие в проектах с помощью GitHub Desktop](#часть-3-участие-в-проектах-с-помощью-github-desktop)
+
+# Введение
+**GitHub Desktop** — это приложение, которое позволяет взаимодействовать с GitHub с помощью графического пользовательского интерфейса вместо командной строки или веб-браузера. GitHub Desktop способствует более эффективной совместной работе в команде в соответствии с рекомендациями по использованию Git и GitHub. Вы можете использовать GitHub Desktop для выполнения большинства команд Git на компьютере с помощью визуального подтверждения изменений. Вы можете отправлять, вытягивать и клонировать удаленные репозитории с помощью GitHub Desktop, а также использовать средства совместной работы, такие как атрибуция фиксаций и создание запросов на вытягивание.
+
+Это руководство поможет вам приступить к работе с GitHub Desktop путем настройки приложения, проверки подлинности учетной записи, настройки основных параметров и введения основ управления проектами с помощью GitHub Desktop. После прохождения этого учебника вы сможете использовать GitHub Desktop для совместной работы над проектами и подключения к удаленным репозиториям.
+
+Прежде чем приступить к работе с GitHub, вам может быть полезно ознакомиться с Git и GitHub Desktop. Дополнительные сведения см. в следующих руководствах.
+
+* [С помощью Git](https://docs.github.com/ru/get-started/using-git)
+* [Знакомство с GitHub](https://docs.github.com/ru/get-started/learning-about-github)
+* [Приступая к работе с документацией по GitHub](https://docs.github.com/ru/get-started)
+
+**GitHub Desktop** — это проект с открытым кодом. Вы можете ознакомиться со стратегией, внести свой вклад в проект или открыть проблему, чтобы предоставить отзыв или запросить новую функцию. Дополнительные сведения можно найти в статье Репозиторий [desktop/desktop](https://github.com/desktop/desktop).
+# Часть 1. Установка и проверка подлинности
+Установить GitHub Desktop можно в любой поддерживаемой операционной системе. Дополнительные сведения см. в разделе <u>[Поддерживаемые операционные системы.](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/overview/supported-operating-systems)</u>
+
+Чтобы установить GitHub Desktop, перейдите на страницу скачивания <u>[GitHub Desktop](https://desktop.github.com/)</u>. Дополнительные сведения см. в разделе <u>[Установка GitHub Desktop](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)</u>.
+
+После установки GitHub Desktop вы можете выполнить пройти проверку подлинности приложения с помощью учетной записи на GitHub или GitHub Enterprise. Проверка подлинности позволяет подключаться к удаленным репозиториям на GitHub или GitHub Enterprise.
+1. Чтобы пройти проверку подлинности для GitHub или GitHub Enterprise, вам потребуется учетная запись. Дополнительные сведения о создании учетной записи см. в разделе <u>[Регистрация новой учетной записи GitHub](https://docs.github.com/ru/get-started/signing-up-for-github/signing-up-for-a-new-github-account)</u> или обратитесь к администратору сайта GitHub Enterprise.
+2. В раскрывающемся меню "Файл" выберите Параметры. В окне параметров щелкните Учетные записи и выполните действия для входа. Дополнительные сведения о проверке подлинности см. в разделе <u>[Проверка подлинности в GitHub](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github)</u>.
+
+![Инструкция](https://docs.github.com/assets/cb-52952/mw-1000/images/help/desktop/windows-sign-in-github.webp)
+# Часть 2. Настройка GitHub Desktop
+После установки GitHub Desktop, вы можете настроить приложение в соответствии с вашими потребностями.
+
+Вы можете подключать или удалять учетные записи для GitHub или GitHub Enterprise, выбрать текстовый редактор или оболочку по умолчанию, изменить конфигурацию Git, изменить внешний вид GitHub Desktop, настроить системные диалоговые окна и задать параметры конфиденциальности в окне "Настройки" GitHub Desktop. Дополнительные сведения см. в разделе <u>[Настройка основных параметров](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/configuring-and-customizing-github-desktop/configuring-basic-settings)</u>.
+
+![Инструкция](https://docs.github.com/assets/cb-295479/mw-1000/images/help/desktop/mac-select-preferences-pane.webp)
+# Часть 3. Участие в проектах с помощью GitHub Desktop
+После установки, проверки подлинности и настройки приложения можно приступить к использованию GitHub Desktop. Вы можете создавать, добавлять или клонировать репозитории и использовать GitHub Desktop для управления своими вкладами в репозитории.
+
+*С этим статься заканчивается, спасибо, что прочитали*
+
+![Спасибо за внимание :3](https://steamuserimages-a.akamaihd.net/ugc/451866700987098994/9DCF7F77509F3F189A6CAEF297DD0800FD344EB7/?imw=512&amp;imh=341&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
