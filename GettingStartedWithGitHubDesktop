@@ -3,7 +3,7 @@
 ## **В этой статье**
 1. [Введение](#введение)
 2. [Часть 1. Установка и проверка подлинности](#часть-1-установка-и-проверка-подлинности)
-3. Часть 2. Настройка GitHub Desktop
+3. [Часть 2. Настройка GitHub Desktop](#часть-2-настройка-github-desktop)
 4. Часть 3. Участие в проектах с помощью GitHub Desktop
 
 # Введение
@@ -28,3 +28,9 @@
 2. В раскрывающемся меню "Файл" выберите Параметры. В окне параметров щелкните Учетные записи и выполните действия для входа. Дополнительные сведения о проверке подлинности см. в разделе <u>[Проверка подлинности в GitHub](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github)</u>.
 
 ![Инструкция](https://docs.github.com/assets/cb-52952/mw-1000/images/help/desktop/windows-sign-in-github.webp)
+# Часть 2. Настройка GitHub Desktop
+После установки GitHub Desktop, вы можете настроить приложение в соответствии с вашими потребностями.
+
+Вы можете подключать или удалять учетные записи для GitHub или GitHub Enterprise, выбрать текстовый редактор или оболочку по умолчанию, изменить конфигурацию Git, изменить внешний вид GitHub Desktop, настроить системные диалоговые окна и задать параметры конфиденциальности в окне "Настройки" GitHub Desktop. Дополнительные сведения см. в разделе <u>[Настройка основных параметров](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/configuring-and-customizing-github-desktop/configuring-basic-settings)</u>.
+
+![Инструкция](https://docs.github.com/assets/cb-295479/mw-1000/images/help/desktop/mac-select-preferences-pane.webp)
