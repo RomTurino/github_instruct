@@ -2,7 +2,7 @@
 ## Узнайте, как определить, проверить подлинность и настроить GitHub Desktop, чтобы участвовать в проектах непосредственно со своего компьютера.
 ## **В этой статье**
 1. [Введение](#введение)
-2. Часть 1. Установка и проверка подлинности
+2. [Часть 1. Установка и проверка подлинности](#часть-1-установка-и-проверка-подлинности)
 3. Часть 2. Настройка GitHub Desktop
 4. Часть 3. Участие в проектах с помощью GitHub Desktop
 
@@ -18,3 +18,13 @@
 * [Приступая к работе с документацией по GitHub](https://docs.github.com/ru/get-started)
 
 **GitHub Desktop** — это проект с открытым кодом. Вы можете ознакомиться со стратегией, внести свой вклад в проект или открыть проблему, чтобы предоставить отзыв или запросить новую функцию. Дополнительные сведения можно найти в статье Репозиторий [desktop/desktop](https://github.com/desktop/desktop).
+# Часть 1. Установка и проверка подлинности
+Установить GitHub Desktop можно в любой поддерживаемой операционной системе. Дополнительные сведения см. в разделе <u>[Поддерживаемые операционные системы.](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/overview/supported-operating-systems)</u>
+
+Чтобы установить GitHub Desktop, перейдите на страницу скачивания <u>[GitHub Desktop](https://desktop.github.com/)</u>. Дополнительные сведения см. в разделе <u>[Установка GitHub Desktop](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)</u>.
+
+После установки GitHub Desktop вы можете выполнить пройти проверку подлинности приложения с помощью учетной записи на GitHub или GitHub Enterprise. Проверка подлинности позволяет подключаться к удаленным репозиториям на GitHub или GitHub Enterprise.
+1. Чтобы пройти проверку подлинности для GitHub или GitHub Enterprise, вам потребуется учетная запись. Дополнительные сведения о создании учетной записи см. в разделе <u>[Регистрация новой учетной записи GitHub](https://docs.github.com/ru/get-started/signing-up-for-github/signing-up-for-a-new-github-account)</u> или обратитесь к администратору сайта GitHub Enterprise.
+2. В раскрывающемся меню "Файл" выберите Параметры. В окне параметров щелкните Учетные записи и выполните действия для входа. Дополнительные сведения о проверке подлинности см. в разделе <u>[Проверка подлинности в GitHub](https://docs.github.com/ru/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github)</u>.
+
+![Инструкция](https://docs.github.com/assets/cb-52952/mw-1000/images/help/desktop/windows-sign-in-github.webp)
