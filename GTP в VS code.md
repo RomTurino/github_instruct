@@ -1,0 +1,1 @@
+Чат GTP можно установить посмотрев это видео: https://www.youtube.com/watch?v=-60WqA8wbIg.
