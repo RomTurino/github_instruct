@@ -327,6 +327,8 @@ ___
 
 [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/book.pdf)
 
+[Pro Git. Наверное, самое полное руководство/справочник по git.](https://git-scm.com/book/ru/v2)
+
 ![LogoGit](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 =======
 
