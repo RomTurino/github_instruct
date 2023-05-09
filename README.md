@@ -316,7 +316,7 @@ ___
 ## Полезные ссылки по работе с GitHub
 
 ---
-
+Добавил ссылку на видео по Пул Реквест. https://www.youtube.com/watch?v=veMDnBt30pk&pp=ygUp0LrQsNC6INGB0LTQtdC70LDRgtGMIHB1bGwgcmVxdWVzdCBnaXRodWI%3D. Так как уже не знаю, что еще добавить.
 [Инструкции по github для начинающих](https://gist.github.com/ilyavf/29d7a79989cbdc455379d12d109ac5a2)
 
 [Знакомство с Git и GitHub: руководство для начинающих](https://medium.com/nuances-of-programming/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-git-%D0%B8-github-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85-54ea2567d76c)
